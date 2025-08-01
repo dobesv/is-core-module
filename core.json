@@ -158,5 +158,6 @@
 	"worker_threads": ">= 11.7",
 	"node:worker_threads": [">= 14.18 && < 15", ">= 16"],
 	"zlib": ">= 0.5",
-	"node:zlib": [">= 14.18 && < 15", ">= 16"]
+	"node:zlib": [">= 14.18 && < 15", ">= 16"],
+	"pnpapi": true,
 }
